@@ -20,4 +20,5 @@ projectFilesBackup
 
 .DS_Store
 
-assets/
+assets/other/*
+assets/examples/*
