@@ -18,7 +18,6 @@
     11. Media Queries (Tablet)
     12. Media Queries (Mobile)
     13. Animations
-    20. Duppy
 
 */
 
@@ -2066,11 +2065,10 @@ body:not(.post-template) .post-title {
 }
 
 
-/* ==========================================================================
-   End of file. Animations should be the last thing here. Do not add stuff
-   below this point, or it will probably fuck everything up.
-   ========================================================================== */
 
+/* ==========================================================================
+   20. Animations
+   ========================================================================== */
 
 .post-content a, .post-excerpt a, .post-meta a {
   color: #9f5111;
@@ -2086,6 +2084,7 @@ body:not(.post-template) .post-title {
 .post-footer {
   margin-top: 10rem;
 }
+
 
 /* ==========================================================================
    End of file. Animations should be the last thing here. Do not add stuff
